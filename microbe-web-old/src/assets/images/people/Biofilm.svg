@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="274px" viewBox="0 0 27 274" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>生物膜2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.43793294,0.46472057 C6.51254948,0.141985957 6.83445367,-0.0591043037 7.15692608,0.015572902 C7.47939849,0.0902501077 7.68032538,0.412416041 7.60570884,0.735150654 C-0.088605559,34.0149268 -0.851301035,63.603473 5.30961214,89.5038118 C8.23726312,101.81159 10.5670684,123.70627 12.0119351,156.115123 C12.3023548,162.629335 12.4354784,168.658426 12.6221646,181.341716 C12.9521732,203.762199 13.1973121,213.310281 13.9724172,226.60393 C14.4922973,235.520274 16.6133571,249.315643 20.335802,267.977696 C20.4005989,268.302548 20.1899965,268.618463 19.8654084,268.683313 C19.5408203,268.748162 19.2251614,268.537389 19.1603644,268.212537 C15.4279209,249.500357 13.2996718,235.658229 12.7758227,226.673813 C11.9993682,213.357021 11.7539287,203.797229 11.4236645,181.359386 C11.2371552,168.688116 11.1042042,162.66684 10.8144964,156.168595 C9.37272524,123.829177 7.04983958,101.999525 4.14356893,89.7816297 C-2.06325435,63.6882859 -1.29579626,33.9149753 6.43793294,0.46472057 Z" id="path-1"></path>
+        <filter x="-34.4%" y="-1.7%" width="168.7%" height="104.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.345098039   0 0 0 0 0.623529412   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="生物膜2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="生物膜" transform="translate(3.000000, 2.000000)" fill-rule="nonzero">
+            <g>
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#589FFF" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
